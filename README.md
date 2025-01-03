@@ -82,8 +82,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bhaveshsinghal95182/bhaveshsinghal95182/output/snake.svg" alt="Snake animation" />
-
-###
