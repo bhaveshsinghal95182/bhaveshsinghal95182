@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Bhavesh SInghal and I'm a Generalist Developer, from Gurgaon, India</h1>
+<h1 align="center">Hi 👋! My name is Bhavesh SInghal and I'm a Generalist Developer, from India</h1>
 
 ###
 
